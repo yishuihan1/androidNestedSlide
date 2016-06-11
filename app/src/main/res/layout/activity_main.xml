@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<demo.likang.com.embeddedwebview.EmbeddedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none"
+    tools:context="demo.likang.com.embeddedwebview.MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50.0dip"
+            android:layout_alignParentBottom="true"
+            android:background="#ff49be38">
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.39999998dip" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="hhhhhhhh"
+                android:textColor="@android:color/white"
+                android:textSize="16.0sp" />
+        </RelativeLayout>
+
+        <demo.likang.com.embeddedwebview.EmbeddedWebView
+            android:id="@+id/mWebView"
+            android:layout_width="match_parent"
+            android:scrollbars="vertical"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:layout_height="wrap_content"/>
+
+
+    <demo.likang.com.embeddedwebview.MyRecyclerView
+        android:id="@+id/mRecyclerView"
+        android:layout_width="match_parent"
+        android:scrollbars="vertical"
+        android:layout_height="wrap_content"/>
+    </LinearLayout>
+</demo.likang.com.embeddedwebview.EmbeddedScrollView>

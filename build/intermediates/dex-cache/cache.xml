@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db35ccbbf876fe4e68fac64395fd4aac4a233115">
+        <dex dex="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a221bcfbf89d600689c18992fccab728a0a66837/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a85958aeb05ba76d746bc6d4819eebea830abe41">
+        <dex dex="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bb90977239e4bdc373132b2fd83292d61e23ec67/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_cdf7f650d30ad0177596827a36bf9456250172e1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.0_c6de6d40c56a9491dee9b2df6e505c49db31a02c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.0.0_525ec7179d396ec8ff4c407a7d6cd09187fd9be4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_96106e036b299379632f401051ec0486cbb4e71a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_48b2c458f4f54d168f0c7d88a50a1bbb5076b23e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_9beb65bc7713f1c5c4ffcf193606ed552780c525/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_4b1ea70aa6562f5d0c96ad74cb45576076d8089d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/likang/Desktop/EmbeddedWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_9760721fdd3ed85b6187585b3de5684fc6435343/classes.dex" />
+    </item>
+
+</items>
